@@ -25,7 +25,7 @@ Moreover, each room has a different camera position that gives it an entire diff
 - Enemies have to be hit twice to be killed.
 - Bullets color changes overtime.
 
-## Inspirations and refernces used
+## Inspirations and references used
 
 The idea of the bossfight comes from references such as Mega Satan from The Binding of Isaac and Leshy from inscription.
 
