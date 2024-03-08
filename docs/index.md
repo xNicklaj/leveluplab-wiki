@@ -8,7 +8,10 @@ The player has to repeat the same level a number of time, and each time a cycle 
 
 After some cycles, the player is faced with a boss battle that has the ability to use all the debuffs that the player has previously faced.
 
-## Examples and references
+
+
+
+## Inspirations and refernces used
 
 The idea of the bossfight comes from references such as Mega Satan from The Binding of Isaac and Leshy from inscription.
 
