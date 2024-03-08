@@ -18,7 +18,7 @@ Moreover, each room has a different camera position that gives it an entire diff
 - Blue bullets: these bullets shift the color scheme to 180°.
 
 ## Buffs
-- Increased speed but lowered health.
+- Increased speed.
 - When your health is 30%(?) you can shoot once in all directions.
 - Increased fire rate for 3 seconds.
 - Increased damage to a different color of enemy every round.
