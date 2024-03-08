@@ -8,17 +8,22 @@ The player has to repeat the same level a number of time, and each time a cycle 
 
 After some cycles, the player is faced with a boss battle that has the ability to use all the debuffs that the player has previously faced.
 
+Moreover, each room has a different camera position that gives it an entire different feel. As example one room might have a top-down view, while another has a side scrolling view.
+
 ## Types of bullet
 
-- Blue bullets: these bullets reset the control scheme to default
+- Rosso bullets: these bullets reset the control scheme to default
 - Yellow bullets: these bullets shift the color scheme to 90°.
 - Purple bullets: these bullets shift the color scheme to -90°.
-- Red bullets: these bullets shift the color scheme to 180°.
+- Blue bullets: these bullets shift the color scheme to 180°.
 
 ## Buffs
 
 ## Debuffs
-
+- Increase the size of the enemy bullets.
+- Increase the speed of enemy bullets.
+- Enemies have to be hit twice to be killed.
+- Bullets color changes overtime.
 
 ## Inspirations and refernces used
 
